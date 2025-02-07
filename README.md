@@ -8,7 +8,7 @@
 Haki is a chat application that simulates natural conversations in different Arabic dialects (Palestinian, Syrian, and Saudi Arabian) using AI. Creates a chatting experience by incorporating realistic typing delays, dialect-specific responses, and human-like behaviors.
 
 <div align="center">
-  <img src="./assets/haki-preview.png" alt="Haki Preview" width="1920" height="953">
+  <img src="./assets/haki-preview.png">
 </div>
 
 ## Features
